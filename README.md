@@ -1,4 +1,4 @@
-### Hi, I'm Justin 👋
+![Header](assets/header-image.png)
 
 - :technologist:    I'm currently working at :octocat: as a `support engineer`.
 - :seedling:        Currently dabbling my hands into `Python`
