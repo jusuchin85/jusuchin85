@@ -1,26 +1,37 @@
-![Header](assets/github-header.png)
+Hi 👋 My name is Justin Alex Paramanandan
+=========================================
 
-- :technologist:    I'm currently working at :octocat: as a `support engineer`.
-- :seedling:        Currently dabbling my hands into `Python`
-- :speech_balloon:  Ask me about anything `Atlassian`!
-- :purple_heart:    I love watching the occassional anime, reading manga, or just gaming!
+Support Engineer @Github
+------------------------
 
----
+Lurking around and learning new things every day!
 
-### :mailbox: My Social Profiles
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub Badge")](https://github.com/jusuchin85)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn Badge")](https://www.linkedin.com/in/jusuchin85)
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white "Reddit Badge")](https://www.reddit.com/user/jusuchin85)
-[![Steam Badge](https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white "Steam Badge")](https://steamcommunity.com/id/jusuchin85)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white "Twitter Badge")](https://twitter.com/jusuchin85)
-[![Anilist Badge](https://img.shields.io/badge/Anilist-5c728a?style=for-the-badge&logo=anilist&logoColor=white "Anilist Badge")](https://anilist.co/user/jusuchin85)
-[![lastfm Badge](https://img.shields.io/badge/Lastfm-100000?style=for-the-badge&logo=last.fm&logoColor=red "lastrfm Badge")](https://www.last.fm/user/jusuchin85)
+* 🌍  I'm based in Australia
+* 🧠  I'm learning Python + Ruby
+* ⚡  Anime/manga/light novel lover. McLaren F1 and Manchester United supporter.
 
----
+[![Twitter Follower Badge](https://img.shields.io/twitter/follow/jusuchin85?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/jusuchin85)
+[![GitHub Follower Badge](https://img.shields.io/github/followers/jusuchin85?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/jusuchin85)
 
-### :fire: My Stats
+## Socials
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jusuchin85&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
+<p align="left">
+    <a href="https://www.github.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/github.svg" width="48" height="48" /></a>
+    <a href="https://www.linkedin.com/in/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/linkedin.svg" width="48" height="48" /></a>
+    <a href="https://www.twitter.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/twitter.svg" width="48" height="48" /></a>
+    <a href="https://www.reddit.com/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/reddit.svg" width="48" height="48" /></a>
+    <a href="https://steamcommunity.com/id/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/steam.svg" width="48" height="48" /></a>
+    <a href="https://anilist.co/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/anilist.svg" width="48" height="48" /></a>
+    <a href="https://www.last.fm/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/lastfm.svg" width="48" height="48" /></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusuchin85&layout=compact&theme=vision-friendly-dark)]
+## Badges
+
+**My GitHub Stats**
+
+<a href="http://www.github.com/jusuchin85"><img src="https://github-readme-stats.vercel.app/api?username=jusuchin85&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jusuchin85's GitHub stats" /></a>
+
+<a href="http://www.github.com/jusuchin85"><img src="https://activity-graph.herokuapp.com/graph?username=jusuchin85&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/jusuchin85" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusuchin85&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
