@@ -1,11 +1,8 @@
-Hi 👋 My name is Justin Alex Paramanandan
-=========================================
+# Hi 👋 My name is Justin Alex Paramanandan
 
-Support Engineer @Github
-------------------------
+## Support Engineer @Github
 
 Lurking around and learning new things every day!
-
 
 * 🌍  I'm based in Australia
 * 🧠  I'm learning Python + Ruby
@@ -17,13 +14,14 @@ Lurking around and learning new things every day!
 ## Socials
 
 <p align="left">
-    <a href="https://www.github.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/github.svg" width="48" height="48" /></a>
-    <a href="https://www.linkedin.com/in/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/linkedin.svg" width="48" height="48" /></a>
-    <a href="https://www.twitter.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/twitter.svg" width="48" height="48" /></a>
-    <a href="https://www.reddit.com/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/reddit.svg" width="48" height="48" /></a>
-    <a href="https://steamcommunity.com/id/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/steam.svg" width="48" height="48" /></a>
-    <a href="https://anilist.co/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/anilist.svg" width="48" height="48" /></a>
-    <a href="https://www.last.fm/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/lastfm.svg" width="48" height="48" /></a>
+    <a href="https://www.github.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/github.svg" width="48" height="48" alt=GitHub /></a>
+    <a href="https://exercism.org/profiles/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/exercism.svg" width="48" height="48" alt=exercism /></a>
+    <a href="https://www.linkedin.com/in/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/linkedin.svg" width="48" height="48" alt=LinkedIn /></a>
+    <a href="https://www.twitter.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/twitter.svg" width="48" height="48" alt=Twitter /></a>
+    <a href="https://www.reddit.com/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/reddit.svg" width="48" height="48" alt=Reddit /></a>
+    <a href="https://steamcommunity.com/id/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/steam.svg" width="48" height="48" alt=Steam /></a>
+    <a href="https://anilist.co/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/anilist.svg" width="48" height="48" alt=AniList /></a>
+    <a href="https://www.last.fm/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/lastfm.svg" width="48" height="48" alt=last.fm /></a>
 </p>
 
 ## Badges
