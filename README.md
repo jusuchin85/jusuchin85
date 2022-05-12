@@ -18,6 +18,7 @@ Lurking around and learning new things every day!
 
 <p align="left">
     <a href="https://www.github.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/github.svg" width="48" height="48" /></a>
+    <a href="https://exercism.org/profiles/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/exercism.svg" width="48" height="48" /></a>
     <a href="https://www.linkedin.com/in/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/linkedin.svg" width="48" height="48" /></a>
     <a href="https://www.twitter.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/twitter.svg" width="48" height="48" /></a>
     <a href="https://www.reddit.com/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/reddit.svg" width="48" height="48" /></a>
