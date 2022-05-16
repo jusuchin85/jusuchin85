@@ -24,16 +24,32 @@ Lurking around and learning new things every day!
     <a href="https://www.last.fm/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/lastfm.svg" width="48" height="48" alt=last.fm /></a>
 </p>
 
-## Badges
+## My GitHub Stats
 
-**My GitHub Stats**
-
-<a href="http://www.github.com/jusuchin85"><img src="https://github-readme-stats.vercel.app/api?username=jusuchin85&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jusuchin85's GitHub stats" /></a>
+<table border="0">
+ <tr>
+    <td><a href="http://www.github.com/jusuchin85"><img src="https://github-readme-stats.vercel.app/api?username=jusuchin85&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jusuchin85's GitHub stats" /></a></td>
+    <td><a href="https://github.com/jusuchin85" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusuchin85&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
+ </tr>
+</table>
 
 <a href="http://www.github.com/jusuchin85"><img src="https://activity-graph.herokuapp.com/graph?username=jusuchin85&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/jusuchin85" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusuchin85&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ## Other Metrics
 
-![Metrics](metrics.plugin.anilist.svg)
+<details><summary>Recently listened to on last.fm</summary>
+<p>
+
+   <td><img align="center" src="assets/metrics/metrics.plugin.lastfm.recent.svg" alt="Metrics" width="400"></td>
+
+</p>
+</details>
+
+<details><summary>Recently listened to on last.fm</summary>
+<p>
+
+   <td><img align="center" src="assets/metrics/metrics.plugin.anilist.recent.svg" alt="Metrics" width="400"></td>
+
+</p>
+</details>
+
