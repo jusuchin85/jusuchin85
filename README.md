@@ -40,7 +40,7 @@ Lurking around and learning new things every day!
 <details><summary>Recently listened to on last.fm</summary>
 <p>
 
-   <td><img align="center" src="assets/metrics/metrics.plugin.lastfm.recent.svg" alt="Metrics" width="400"></td>
+   <td><img align="center" src="assets/metrics/metrics.plugin.lastfm.recent.svg"  alt="Lastfm Metrics" width="100%"></td>
 
 </p>
 </details>
@@ -48,7 +48,7 @@ Lurking around and learning new things every day!
 <details><summary>Currently watching anime</summary>
 <p>
 
-   <td><img align="center" src="assets/metrics/metrics.plugin.anilist.recent.svg" alt="Metrics" width="400"></td>
+   <td><img align="center" src="assets/metrics/metrics.plugin.anilist.recent.svg"  alt="Anilist Metrics" width="100%"></td>
 
 </p>
 </details>
