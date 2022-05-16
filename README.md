@@ -36,4 +36,4 @@ Lurking around and learning new things every day!
 
 ## Other Metrics
 
-![Metrics](/github-metrics.svg)
+![Metrics](metrics.plugin.anilist.svg)
