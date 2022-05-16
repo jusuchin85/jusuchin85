@@ -45,7 +45,7 @@ Lurking around and learning new things every day!
 </p>
 </details>
 
-<details><summary>Recently listened to on last.fm</summary>
+<details><summary>Currently watching anime</summary>
 <p>
 
    <td><img align="center" src="assets/metrics/metrics.plugin.anilist.recent.svg" alt="Metrics" width="400"></td>
