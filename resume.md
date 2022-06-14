@@ -34,7 +34,7 @@
 
 ## Professional Experience
 
-### Support Enginner
+### Support Engineer, Premium Support
 
 #### [GitHub][github] - Remote
 
