@@ -40,7 +40,7 @@ Lurking around and learning new things every day!
 <details><summary>Recently listened music</summary>
 <p>
 
-   <td><img align="center" src="assets/metrics/metrics.plugin.lastfm.recent.svg" alt="last.fm Metrics" width="100%"></td>
+   <td><a href="https://www.last.fm/user/jusuchin85" target="_blank" rel="noreferrer"><img align="center" src="assets/metrics/metrics.plugin.lastfm.recent.svg" alt="last.fm Metrics" width="50%"></a></td>
 
 </p>
 </details>
@@ -48,7 +48,7 @@ Lurking around and learning new things every day!
 <details><summary>Currently watching anime</summary>
 <p>
 
-   <td><img align="center" src="assets/metrics/metrics.plugin.anilist.recent.svg" alt="Anilist Metrics" width="100%"></td>
+   <td><a href="https://anilist.co/user/jusuchin85" target="_blank" rel="noreferrer"><img align="center" src="assets/metrics/metrics.plugin.anilist.recent.svg" alt="Anilist Metrics" width="50%"></a></td>
 
 </p>
 </details>
