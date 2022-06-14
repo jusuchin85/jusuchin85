@@ -5,6 +5,7 @@
 Lurking around and learning new things every day!
 
 * 🌍  I'm based in Australia
+* 🧑🏾‍💻  [My resume](resume.md)
 * 🧠  I'm learning Python + Ruby
 * ⚡  Anime/manga/light novel lover. McLaren F1 and Manchester United supporter.
 
