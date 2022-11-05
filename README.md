@@ -8,21 +8,7 @@ Lurking around and learning new things every day!
 * 🧠  I'm learning Python + Ruby
 * ⚡  Anime/manga/light novel lover. McLaren F1 and Manchester United supporter.
 
-[![Twitter Follower Badge](https://img.shields.io/twitter/follow/jusuchin85?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/jusuchin85)
-[![GitHub Follower Badge](https://img.shields.io/github/followers/jusuchin85?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/jusuchin85)
-
-## Socials
-
-<p align="left">
-    <a href="https://www.github.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/github.svg" width="48" height="48" alt=GitHub /></a>
-    <a href="https://exercism.org/profiles/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/exercism.svg" width="48" height="48" alt=exercism /></a>
-    <a href="https://www.linkedin.com/in/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/linkedin.svg" width="48" height="48" alt=LinkedIn /></a>
-    <a href="https://www.twitter.com/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/twitter.svg" width="48" height="48" alt=Twitter /></a>
-    <a href="https://www.reddit.com/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/reddit.svg" width="48" height="48" alt=Reddit /></a>
-    <a href="https://steamcommunity.com/id/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/steam.svg" width="48" height="48" alt=Steam /></a>
-    <a href="https://anilist.co/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/anilist.svg" width="48" height="48" alt=AniList /></a>
-    <a href="https://www.last.fm/user/jusuchin85" target="_blank" rel="noreferrer"><img src="assets/socials/lastfm.svg" width="48" height="48" alt=last.fm /></a>
-</p>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://www.github.com/jusuchin85) [![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/jusuchin85) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/jusuchin85) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square)](https://www.twitter.com/jusuchin85) [![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)](https://steamcommunity.com/id/jusuchin85) [![AniList Badge](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat-square)](https://anilist.co/user/jusuchin85) [![Last.fm Badge](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=fff&style=flat-square)](https://www.last.fm/user/jusuchin85)
 
 ## My GitHub Stats
 
