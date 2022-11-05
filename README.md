@@ -1,40 +1,24 @@
 # Hi 👋 My name is Justin Alex Paramanandan
 
-## Support Engineer @Github
+## Supporting our customers @Github
 
-Lurking around and learning new things every day!
+<samp>
 
-* 🌍  I'm based in Australia
-* 🧠  I'm learning Python + Ruby
-* ⚡  Anime/manga/light novel lover. McLaren F1 and Manchester United supporter.
+<img align="right" width="160" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" /> 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /> I'm based in Australia
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> I'm learning Python + Ruby
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" alt="Smiling Face with Heart-Eyes" width="25" height="25" /> Anime/manga/light novel lover. McLaren F1 and Manchester United supporter.
+
+</samp>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://www.github.com/jusuchin85) [![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/jusuchin85) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/jusuchin85) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square)](https://www.twitter.com/jusuchin85) [![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)](https://steamcommunity.com/id/jusuchin85) [![AniList Badge](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat-square)](https://anilist.co/user/jusuchin85) [![Last.fm Badge](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=fff&style=flat-square)](https://www.last.fm/user/jusuchin85)
 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Groovy                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jusuchin85/jusuchin85/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/11/2022 05:30:38 UTC
 <!--END_SECTION:waka-->
 
 <table border="0">
@@ -48,18 +32,4 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 ## Other Metrics
 
-<details><summary>Recently listened music</summary>
-<p>
-
-   <td><a href="https://www.last.fm/user/jusuchin85" target="_blank" rel="noreferrer"><img align="center" src="assets/metrics/metrics.plugin.lastfm.recent.svg" alt="last.fm Metrics" width="50%"></a></td>
-
-</p>
-</details>
-
-<details><summary>Currently watching anime</summary>
-<p>
-
-   <td><a href="https://anilist.co/user/jusuchin85" target="_blank" rel="noreferrer"><img align="center" src="assets/metrics/metrics.plugin.anilist.recent.svg" alt="Anilist Metrics" width="50%"></a></td>
-
-</p>
-</details>
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=jusuchin85&count=10&width=600&loved=true&loved_style=3)](https://www.last.fm/user/jusuchin85)
