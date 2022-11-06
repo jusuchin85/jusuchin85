@@ -19,20 +19,6 @@
 ---
 
 <!--START_SECTION:waka-->
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Groovy                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
-
-```
-
-
-
- Last Updated on 05/11/2022 07:25:24 UTC
 <!--END_SECTION:waka-->
 
 <table border="0">
