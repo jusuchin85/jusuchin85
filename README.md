@@ -14,18 +14,9 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://www.github.com/jusuchin85) [![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/jusuchin85) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/jusuchin85) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square)](https://www.twitter.com/jusuchin85) [![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)](https://steamcommunity.com/id/jusuchin85) [![AniList Badge](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat-square)](https://anilist.co/user/jusuchin85) [![Last.fm Badge](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=fff&style=flat-square)](https://www.last.fm/user/jusuchin85)
 
-## My Metrics
+## Code
 
 <!--START_SECTION:waka-->
-
-```text
-From: 04 November 2022 - To: 06 November 2022
-
-Total Time: 1 hr 40 mins
-
-Other      52 mins         >>>>>>>>>>>>>------------   52.19 %
-```
-
 <!--END_SECTION:waka-->
 
 [![jusuchin85's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jusuchin85&title=LongTimeUser,Commits,PullRequest,Issues&theme=dracula&margin-w=10&no-frame=true)](https://github.com/jusuchin85)
