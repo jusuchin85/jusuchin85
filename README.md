@@ -17,6 +17,13 @@
 ## Code
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 8 hrs 33 mins
+
+Other      6 hrs 53 mins   ████████████████████░░░░░   80.45 %
+```
+
 <!--END_SECTION:waka-->
 
 [![jusuchin85's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jusuchin85&title=LongTimeUser,Commits,PullRequest,Issues&theme=dracula&margin-w=10&no-frame=true)](https://github.com/jusuchin85)
