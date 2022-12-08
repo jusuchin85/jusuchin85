@@ -30,7 +30,7 @@ Other      5 hrs 1 min     ███████░░░░░░░░░░�
 [![jusuchin85's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jusuchin85&title=LongTimeUser,Commits,PullRequest,Issues&theme=dracula&margin-w=10&no-frame=true)](https://github.com/jusuchin85)
 [![jusuchin85's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusuchin85&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/jusuchin85) [![jusuchin85's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jusuchin85&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/jusuchin85)
 
-[![jusuchin85's GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=jusuchin85&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/jusuchin85)
+[![jusuchin85's GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jusuchin85&theme=tokyo-night	)](http://www.github.com/jusuchin85)
 
 ## Other Metrics
 
