@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 21 hrs 26 mins
+Total Time: 18 hrs 34 mins
 
-Markdown   12 hrs 29 mins  ██████████████▓░░░░░░░░░░   58.22 %
-Other      8 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.45 %
+Markdown   10 hrs 2 mins   █████████████▓░░░░░░░░░░░   54.10 %
+Other      7 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   41.78 %
 ```
 
 <!--END_SECTION:waka-->
