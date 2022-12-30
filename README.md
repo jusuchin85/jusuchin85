@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 31 mins
-
-Markdown   1 hr 25 mins    ███████████████████████▒░   93.07 %
-Other      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
