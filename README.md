@@ -1,4 +1,4 @@
-# 👋 My name is Justin Alex Paramanandan
+# 👋 Hi! I'm Justin!
 
 ## :technologist: Supporting our customers @Github
 
