@@ -18,4 +18,4 @@
 
 ## Other Metrics
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=jusuchin85&count=10&width=600&loved=true&loved_style=3)](https://www.last.fm/user/jusuchin85)
+[![Last.fm activity for jusuchin85](https://lastfm-now-playing-widget.vercel.app/widget.svg?user=jusuchin85&count=10)](https://www.last.fm/user/jusuchin85)
